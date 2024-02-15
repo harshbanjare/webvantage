@@ -17,6 +17,16 @@
   border-bottom: 1px solid #000;
 }
 
+
+@media screen and (max-width: 768px) {
+  .contact > .intro {
+    margin: 1rem !important;
+    align-self: baseline !important;
+    text-align: center;
+  }
+  
+}
+
 .contact > .intro > .content {
   display: flex;
   flex-direction: column;
