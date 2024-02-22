@@ -74,8 +74,8 @@ const About = () => {
               data-aos-delay="450"
             >
               <img src="./images/team_1.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <span>MADHURENDRA PRATAP</span>
+              <span>Founder</span>
             </div>
             <div
               className="card card_b"
@@ -83,8 +83,8 @@ const About = () => {
               data-aos-delay="550"
             >
               <img src="./images/team_2.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <span>RAMACHANDRAN VENKAT RAMNA</span>
+              <span>Co-Founder</span>
             </div>
             <div
               className="card card_c"
@@ -92,8 +92,8 @@ const About = () => {
               data-aos-delay="650"
             >
               <img src="./images/team_3.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <span>RITOBAAN ROY</span>
+              <span>COO</span>
             </div>
             <div
               className="card card_c"
