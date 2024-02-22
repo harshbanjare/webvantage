@@ -1,6 +1,4 @@
 import React from "react";
-import AOS from "aos";
-import "aos/dist/aos.css";
 import NavBar from "../components/NavBar";
 import FooterLight from "../components/FooterLight";
 import "../styles/About.css";
@@ -73,56 +71,45 @@ const About = () => {
               data-aos="fade-down-right"
               data-aos-delay="450"
             >
-              <img src="./images/team_1.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <img
+                src="https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+                height={100}
+                width={100}
+                alt=""
+                srcset=""
+              />
+              <span>Ritobaan Roy</span>
+              <span>COO</span>
             </div>
             <div
               className="card card_b"
               data-aos="fade-down"
               data-aos-delay="550"
             >
-              <img src="./images/team_2.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <img
+                src="https://www.shareicon.net/data/2016/05/26/771188_man_512x512.png"
+                height={100}
+                width={100}
+                alt=""
+                srcset=""
+              />
+              <span>Madhurendra Pratap</span>
+              <span>Founder</span>
             </div>
             <div
               className="card card_c"
               data-aos="fade-down-left"
               data-aos-delay="650"
             >
-              <img src="./images/team_3.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
-            </div>
-            <div
-              className="card card_c"
-              data-aos="fade-up-right"
-              data-aos-delay="750"
-            >
-              <img src="./images/team_4.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
-            </div>
-
-            <div
-              className="card card_b"
-              data-aos="fade-up"
-              data-aos-delay="850"
-            >
-              <img src="./images/team_5.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
-            </div>
-
-            <div
-              className="card card_d"
-              data-aos="fade-up-left"
-              data-aos-delay="950"
-            >
-              <img src="./images/team_6.png" alt="" srcset="" />
-              <span>Name</span>
-              <span>Designation</span>
+              <img
+                src="https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png"
+                height={100}
+                width={100}
+                alt=""
+                srcset=""
+              />
+              <span>Ramachandran Venkat Ramna</span>
+              <span>Co-Founder</span>
             </div>
           </div>
         </div>
