@@ -115,12 +115,12 @@ const Home = () => {
               Unleash Creativity
             </div>
             <div className="section">
-              <div className="box" data-aos="fade-right">
+              <div className="box" data-aos="fade-down">
                 Break beyond the boundaries with our masterful designs and
                 innovative solutions. At WebVantage Studios, we breathe life
                 into your ideas, transforming them into digital wonders.
               </div>
-              <div className="box" data-aos="fade-left">
+              <div className="box" data-aos="fade-up">
                 Speared by a team of eccentric tech enthusiasts, we deliver
                 performances that surpasses your wildest expectations every
                 single time. Yes, this isn’t a fairy tale, it’s the real deal.

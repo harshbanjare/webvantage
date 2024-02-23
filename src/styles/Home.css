@@ -271,7 +271,7 @@
   font-size: 2.5rem;
   font-weight: 800;
   padding: 1.2rem;
-  color: #001aa0;
+  text-align: center;
 }
 
 .features-container > .feature-c > .section {
@@ -289,7 +289,7 @@
   justify-content: center;
   align-items: center;
   width: 50%;
-  padding: 2rem 4rem;
+  margin: 2px;
 }
 
 @media screen and (max-width: 768px) {
@@ -324,8 +324,9 @@
   }
   .features-container > .feature-c > .section > .box {
     width: 100%;
-    padding: 2rem 1rem;
+    /* padding: 2rem 1rem; */
     text-align: justify;
+    /* box-sizing: border-box; */
   }
   .features-container > .feature-b {
     flex-wrap: wrap;
