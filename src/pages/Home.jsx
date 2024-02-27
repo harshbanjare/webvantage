@@ -68,12 +68,11 @@ const Home = () => {
             </div>
 
             <div className="section-c">
-              <button data-aos="fade-up-left" data-aos-delay="1000">
-                View Our Work
-              </button>
-              <button data-aos="fade-up-right" data-aos-delay="1000">
+  
+             
+             <a href="/about#team"> <button data-aos="fade-up-right" data-aos-delay="1000">
                 Meet Our Team
-              </button>
+              </button></a>
             </div>
           </div>
           <div className="feature-b" id="services">

@@ -54,7 +54,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="team">
+        <div className="team" id="team">
           <div className="heading" data-aos="fade-down" data-aos-delay="200">
             Our Wizards
           </div>
